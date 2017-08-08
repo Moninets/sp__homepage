@@ -6057,7 +6057,7 @@ body {
           padding: 7px 10px; } }
     @media (max-width: 768px) {
       .sp-about .navbar-default .navbar-nav {
-        padding-left: 10px; } }
+        padding-left: 15px; } }
     @media (min-width: 991px) {
       .sp-about .navbar-default .navbar-nav {
         float: right !important;
