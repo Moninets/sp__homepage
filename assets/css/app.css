@@ -6058,7 +6058,7 @@ body {
     @media (max-width: 768px) {
       .sp-about .navbar-default .navbar-nav {
         padding-left: 15px; } }
-    @media (min-width: 991px) {
+    @media (min-width: 991px) and (max-width: 1024) {
       .sp-about .navbar-default .navbar-nav {
         float: right !important;
         padding: 15px 0 0; } }
